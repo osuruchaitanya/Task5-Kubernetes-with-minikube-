@@ -1,8 +1,3 @@
-Here’s another style for your README.md — shorter, cleaner, and more like a project showcase:
-
-
----
-
 # 🌐 Kubernetes App Deployment using Minikube
 
 ## 📖 Project Summary
