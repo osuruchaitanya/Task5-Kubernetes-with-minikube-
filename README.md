@@ -62,7 +62,7 @@ Workload status:
 
 Pods and service outputs:
 ![image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/63f6cc12152cb521b38b34fb7b6bff1780833d28/kubectl_get_pods.png)
-![image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/e59211707e476652e4a61a1d424787e3fb1bab71/kubectl_get_pods1.png)
+![image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/ec85832ba1da01258ff00534e996cdbebe0fe72c/kubectl_get_pods-1.png)
 
 
 Application running in browser
