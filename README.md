@@ -59,7 +59,7 @@ minikube dashboard
 All screenshots are available in the screenshots folder:
 Workload status:
 ![image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/5d6dbf61b94c97d4248227189827994dcfa8af10/kubectl_workload.png)
-Pods
+Pods:
 !{image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/63f6cc12152cb521b38b34fb7b6bff1780833d28/kubectl_get_pods.png)
 ![image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/e59211707e476652e4a61a1d424787e3fb1bab71/kubectl_get_pods1.png)
 services output
