@@ -64,7 +64,7 @@ Pods and service outputs:
 ![image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/63f6cc12152cb521b38b34fb7b6bff1780833d28/kubectl_get_pods.png)
 ![image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/ec85832ba1da01258ff00534e996cdbebe0fe72c/kubectl_get_pods-1.png)
 service :
-[image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/c016dca524a46bc14a72324229147a7dc57c5d6c/kubectl_getsvc_svc.png)
+![image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/c016dca524a46bc14a72324229147a7dc57c5d6c/kubectl_getsvc_svc.png)
 
 Application running in browser
 
