@@ -66,8 +66,8 @@ Pods and service outputs:
 service :
 ![image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/c016dca524a46bc14a72324229147a7dc57c5d6c/kubectl_getsvc_svc.png)
 ![image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/c5f69258e3c7796f99826e9fe307976b9ea877d4/kubectl_getsvc_svc1.png)
-Application running in browser
-
+Application running in browser:
+![image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/a86afd3321997d48959e50ce0637c3d34c0a88f8/output.png)
 Minikube dashboard view
 
 
