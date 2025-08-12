@@ -60,16 +60,14 @@ All screenshots are available in the screenshots folder:
 Workload status:
 ![image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/5d6dbf61b94c97d4248227189827994dcfa8af10/kubectl_workload.png)
 
-Pods and service outputs:
+## Pods  :
 ![image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/63f6cc12152cb521b38b34fb7b6bff1780833d28/kubectl_get_pods.png)
 ![image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/ec85832ba1da01258ff00534e996cdbebe0fe72c/kubectl_get_pods-1.png)
-service :
+### service :
 ![image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/c016dca524a46bc14a72324229147a7dc57c5d6c/kubectl_getsvc_svc.png)
 ![image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/c5f69258e3c7796f99826e9fe307976b9ea877d4/kubectl_getsvc_svc1.png)
 Application running in browser:
 ![image alt](https://github.com/osuruchaitanya/Task5-Kubernetes-with-minikube-/blob/a86afd3321997d48959e50ce0637c3d34c0a88f8/output.png)
-Minikube dashboard view
-
 
 
 ---
