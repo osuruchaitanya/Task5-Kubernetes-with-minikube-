@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: my-service   # 👈 This is the service name
+spec:
+  type: NodePort
+  selector:
+    app: frontend      # 👈 Must match the "app" label in your deployment.yaml
+  ports:
+    - protocol: TCP
+      port: 80       # Port exposed by the service
+      targetPort: 80 # Port on the container
